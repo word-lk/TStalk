@@ -1,0 +1,9 @@
+.konghang{
+    width: 100%;
+    height: 30px;
+}
+.error-msg{
+    color: red;
+    text-align: center;
+    font-style: 18px;
+}
